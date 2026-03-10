@@ -16,4 +16,15 @@ string Status_lulus(float r){
         return "gagal";
 }
 
+int main(){
+    float nilBI,nilMT,rerata;
+    string status;
+
+    cout << "masukkan nilai bahasa inggris = ";
+    cin >> nilBI;
+    cout << "masukkan nilai matematika = ";
+    cin >> nilMT;
+
+    
+}
 
